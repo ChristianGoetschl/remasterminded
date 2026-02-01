@@ -4,9 +4,11 @@ namespace FFX
 {
     public class CodeCoverController : MonoBehaviour
     {
-        [SerializeField] private GameObject _codeCover;
+        [SerializeField] private Animator _codeCover;
 
         private GameBoardController _gameBoardController;
+
+        private const string _ANIMATOR_KEYWORD = "IsHidden";
 
         private void Awake()
         {
@@ -29,6 +31,6 @@ namespace FFX
         private void GameLost() => ToggleCodeCover(false);
 
         private void ToggleCodeCover(bool codeIsHidden) =>
-            _codeCover.SetActive(codeIsHidden);
+            _codeCover.SetBool(_ANIMATOR_KEYWORD, codeIsHidden);
     }
 }
