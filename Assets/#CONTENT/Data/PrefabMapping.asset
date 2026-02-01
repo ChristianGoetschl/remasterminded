@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 180c18cb5c1bd144e86b294fc6eb2dd9, type: 3}
+  m_Name: PrefabMapping
+  m_EditorClassIdentifier: 
+  PiecePrefabRed: {fileID: 9163312756140023703, guid: 8489637694f255f42b66aee9adc53982, type: 3}
+  PiecePrefabBlue: {fileID: 4622973604492936001, guid: 1bbf9f6319b39734288c38765cf09cce, type: 3}
+  PiecePrefabGreen: {fileID: 4622973604492936001, guid: 5f4925e6690a8d748a582d0730ce83f4, type: 3}
+  PiecePrefabYellow: {fileID: 4622973604492936001, guid: 61b2e8a63f0ea344699e4d3696b3dac3, type: 3}
+  PiecePrefabPurple: {fileID: 4622973604492936001, guid: 6330f9d61a15c0844b4107936368f4d9, type: 3}
+  PiecePrefabWhite: {fileID: 4622973604492936001, guid: 7a1d9491761bc864b81927059d6a7b7e, type: 3}
