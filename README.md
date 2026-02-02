@@ -1,4 +1,4 @@
 <h1>Re-MasterMind-ed</h1>
 <p>
-  The classical mastermind game.
+  A remastered version of the classical game MasterMind.
 </p>
