@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512mm"
+   height="512mm"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="DarknessIcon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#000000"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#333333"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.35685431"
+     inkscape:cx="654.32865"
+     inkscape:cy="970.98449"
+     inkscape:window-width="2560"
+     inkscape:window-height="1351"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect5"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+  </defs>
+  <g
+     inkscape:label="DarknessIcon"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="m 280.15706,57.726192 c 40.51058,29.398539 73.37616,79.965288 73.50611,134.304978 0,88.44807 -71.70133,160.1494 -160.1494,160.1494 C 138.03725,352.08266 91.752817,323.28093 57.457475,276.0524 67.741106,378.03115 153.50404,455.70002 255.99988,455.85693 366.37794,455.85705 455.85706,366.37792 455.85693,255.99988 455.7974,155.00957 380.40696,69.933014 280.15706,57.726192 Z"
+       style="fill:none;stroke:#ffffff;stroke-width:13.2292;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="path4"
+       inkscape:label="MoonPath"
+       sodipodi:nodetypes="ccccccc" />
+  </g>
+</svg>

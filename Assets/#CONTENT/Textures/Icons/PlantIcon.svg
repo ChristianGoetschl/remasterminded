@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512mm"
+   height="512mm"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="PlantIcon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#000000"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#333333"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.35685431"
+     inkscape:cx="654.32865"
+     inkscape:cy="970.98449"
+     inkscape:window-width="2560"
+     inkscape:window-height="1351"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect5"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+  </defs>
+  <g
+     inkscape:label="PlantIcon"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:13.2292;stroke-linecap:round;stroke-dasharray:none"
+       d="m 256,256 c 0,0 20.45687,201.68153 -35.15055,215.76874"
+       id="path7"
+       inkscape:label="LeafStemPath"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:13.22916667;stroke-dasharray:none"
+       d="m 256.00213,48.24112 c 0,0 109.05426,133.46417 111.06822,232.08286 1.23196,60.32601 -53.30061,108.18139 -111.06822,109.41049 C 198.23452,390.96359 144.86021,336.30189 144.9339,280.32398 145.07057,176.50189 256.00213,48.24112 256.00213,48.24112 Z"
+       id="path6"
+       inkscape:label="LeafPath"
+       sodipodi:nodetypes="csssc" />
+  </g>
+</svg>

@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
-   sodipodi:docname="NightIcon.svg"
+   sodipodi:docname="LightIcon.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -60,14 +60,32 @@
        uniform="false" />
   </defs>
   <g
-     inkscape:label="NightIcon"
+     inkscape:label="LightIcon"
      inkscape:groupmode="layer"
      id="layer1">
+    <circle
+       style="fill:none;stroke:#ffffff;stroke-width:13.22916667;stroke-dasharray:none"
+       id="path1"
+       cx="256"
+       cy="256"
+       inkscape:label="SunCircle"
+       r="91.790428" />
     <path
-       d="m 280.15706,57.726192 c 40.51058,29.398539 73.37616,79.965288 73.50611,134.304978 0,88.44807 -71.70133,160.1494 -160.1494,160.1494 C 138.03725,352.08266 91.752817,323.28093 57.457475,276.0524 67.741106,378.03115 153.50404,455.70002 255.99988,455.85693 366.37794,455.85705 455.85706,366.37792 455.85693,255.99988 455.7974,155.00957 380.40696,69.933014 280.15706,57.726192 Z"
-       style="fill:none;stroke:#ffffff;stroke-width:13.2292;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       id="path4"
-       inkscape:label="MoonPath"
-       sodipodi:nodetypes="ccccccc" />
+       sodipodi:type="star"
+       style="fill:none;stroke:#ffffff;stroke-width:23.83575741;stroke-dasharray:none"
+       id="path3"
+       inkscape:flatsided="false"
+       sodipodi:sides="8"
+       sodipodi:cx="256"
+       sodipodi:cy="256"
+       sodipodi:r1="362.03867"
+       sodipodi:r2="181.01933"
+       sodipodi:arg1="0.78539816"
+       sodipodi:arg2="1.1780972"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 512,511.99999 325.27311,423.24005 256,618.03867 186.72691,423.24006 5.2510002e-6,512 88.759946,325.27311 -106.03867,256 88.75994,186.72691 3.5115065e-6,5.2510003e-6 186.72689,88.759946 256,-106.03867 325.27309,88.75994 511.99999,3.5115065e-6 423.24005,186.72689 618.03867,256 423.24006,325.27309 Z"
+       transform="matrix(0.55501348,0,0,0.55501348,113.91655,113.91655)"
+       inkscape:label="SunStarPolygon" />
   </g>
 </svg>

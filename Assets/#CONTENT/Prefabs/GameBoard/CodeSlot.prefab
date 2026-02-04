@@ -52,6 +52,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: CodeSlot
       objectReference: {fileID: 0}
+    - target: {fileID: 6094622904144633946, guid: 6aded635dcdb3f24ebfe9df625725f69, type: 3}
+      propertyPath: _pieceMapping
+      value: 
+      objectReference: {fileID: 11400000, guid: 8d8b362b9af34134aa52add413ddba7c, type: 2}
     - target: {fileID: 8166882501173411204, guid: 6aded635dcdb3f24ebfe9df625725f69, type: 3}
       propertyPath: m_Color.b
       value: 1

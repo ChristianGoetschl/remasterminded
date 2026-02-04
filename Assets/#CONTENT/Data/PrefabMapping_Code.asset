@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 180c18cb5c1bd144e86b294fc6eb2dd9, type: 3}
-  m_Name: PrefabMapping
+  m_Name: PrefabMapping_Code
   m_EditorClassIdentifier: 
   PiecePrefabRed: {fileID: 9163312756140023703, guid: 8489637694f255f42b66aee9adc53982, type: 3}
   PiecePrefabBlue: {fileID: 4622973604492936001, guid: 1bbf9f6319b39734288c38765cf09cce, type: 3}

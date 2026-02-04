@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 180c18cb5c1bd144e86b294fc6eb2dd9, type: 3}
+  m_Name: PrefabMapping_Guess
+  m_EditorClassIdentifier: 
+  PiecePrefabRed: {fileID: 5836946307193659556, guid: 969ec9124b8ccb34d870f6f9e0c4e829, type: 3}
+  PiecePrefabBlue: {fileID: 7353268784157758302, guid: 015f2c68f8e3dc444a914369df05cd8d, type: 3}
+  PiecePrefabGreen: {fileID: 7948969609618202550, guid: 35e586281b439d748a664ab0ad4a764b, type: 3}
+  PiecePrefabYellow: {fileID: 5361568239491444992, guid: 5a0a33f458990bb42957e696ad8f34e4, type: 3}
+  PiecePrefabPurple: {fileID: 7337950063648525956, guid: 2d9243d074789f442a084d159a480d82, type: 3}
+  PiecePrefabWhite: {fileID: 3292329720041864054, guid: 14bddaad4a576314fb0b8e8df43cd5ba, type: 3}
