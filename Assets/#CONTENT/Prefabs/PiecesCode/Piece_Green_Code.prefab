@@ -12,6 +12,14 @@ PrefabInstance:
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: beb4b35d58f8ef645bd8788e767720f1, type: 2}
+    - target: {fileID: 7606329872022238133, guid: 8489637694f255f42b66aee9adc53982, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: aadc98446f30a624087348bad6bcaf83, type: 2}
+    - target: {fileID: 7606329872022238133, guid: 8489637694f255f42b66aee9adc53982, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: beb4b35d58f8ef645bd8788e767720f1, type: 2}
     - target: {fileID: 8203186969025533274, guid: 8489637694f255f42b66aee9adc53982, type: 3}
       propertyPath: InitialModule.startColor.maxColor.b
       value: 0.34509802
@@ -66,7 +74,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9163312756140023703, guid: 8489637694f255f42b66aee9adc53982, type: 3}
       propertyPath: m_Name
-      value: Piece_Green
+      value: Piece_Green_Code
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
