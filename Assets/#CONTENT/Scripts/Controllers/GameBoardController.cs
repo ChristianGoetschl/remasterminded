@@ -15,7 +15,7 @@ namespace FFX
 
         private int _activeRowIndex;
 
-        public void StartNewGame()
+        private void Awake()
         {
             _activeRowIndex = 0;
 

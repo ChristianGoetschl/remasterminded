@@ -1,19 +1,18 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 namespace FFX
 {
     [RequireComponent(typeof(Button))]
-    public class StartNewGameBtn : MonoBehaviour
+    public class LoadSceneBtn : MonoBehaviour
     {
+        [SerializeField] private int _sceneLoadBuildIndex = 1;
+
         private Button _btn;
-        private GameBoardController _gameBoardController;
 
         private void Awake()
         {
-            _gameBoardController = FindFirstObjectByType<GameBoardController>();
-            if (!_gameBoardController) Debug.LogError($" <<< No {nameof(GameBoardController)} found! >>>");
-
             _btn = GetComponent<Button>();
             _btn.onClick.AddListener(BtnClicked);
         }
@@ -22,6 +21,6 @@ namespace FFX
             _btn.onClick.RemoveAllListeners();
         }
 
-        private void BtnClicked() => _gameBoardController.StartNewGame();
+        private void BtnClicked() => SceneManager.LoadScene(_sceneLoadBuildIndex);
     }
 }

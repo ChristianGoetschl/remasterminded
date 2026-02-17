@@ -25,7 +25,7 @@
                     "initialStateCheck": true
                 },
                 {
-                    "name": "ToggleMainMenu",
+                    "name": "TogglePauseMenu",
                     "type": "Button",
                     "id": "d6d8d8c4-9972-4cbf-8db3-cdd6356ca6b5",
                     "expectedControlType": "",
@@ -71,7 +71,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "ToggleMainMenu",
+                    "action": "TogglePauseMenu",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
