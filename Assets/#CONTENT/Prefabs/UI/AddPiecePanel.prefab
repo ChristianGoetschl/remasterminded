@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 5393370423750457146}
   - component: {fileID: 5940005813756484521}
   - component: {fileID: 7971459770138619172}
+  - component: {fileID: 8781563484872736940}
   - component: {fileID: 54005752407728166}
   m_Layer: 5
   m_Name: AddPiece_Btn
@@ -122,6 +123,51 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &8781563484872736940
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 151813841805536081}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d024eb92e70712f4fb843ceddc7e621e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::FFX.PointerPositionScaleController
+  _scaleCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 136
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.5
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 136
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 2
+      value: 0.7
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 136
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!114 &54005752407728166
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -927,6 +973,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4259787471415505048}
   - component: {fileID: 1089226664556928796}
+  - component: {fileID: 7229701344340961458}
   m_Layer: 5
   m_Name: AddPiecePanel
   m_TagString: Untagged
@@ -978,6 +1025,18 @@ MonoBehaviour:
   _pieceBtnYellow: {fileID: 2111184326195382538}
   _pieceBtnPurple: {fileID: 79076946497928537}
   _pieceBtnWhite: {fileID: 6219049177097574502}
+--- !u!114 &7229701344340961458
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5950263304021597445}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4509280719039242bc3c8b8c622f4da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::FFX.BillboardUI
 --- !u!1 &6269730358126927700
 GameObject:
   m_ObjectHideFlags: 0
